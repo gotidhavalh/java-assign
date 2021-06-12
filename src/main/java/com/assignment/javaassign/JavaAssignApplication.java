@@ -12,6 +12,8 @@ public class JavaAssignApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JavaAssignApplication.class, args);
+		
+		System.out.println( " Test - one ");
 	}
 
 }
